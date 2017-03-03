@@ -1,0 +1,4 @@
+4
+turn off -1,1 through 2,2
+turn on 1,-1 through 2,2
+switch 1,1 through 5,5

@@ -1,0 +1,3 @@
+[console_scripts]
+runMywork = assignment3.runmycode:mymain
+

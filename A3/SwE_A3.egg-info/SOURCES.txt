@@ -1,0 +1,9 @@
+SwE_A3.egg-info/PKG-INFO
+SwE_A3.egg-info/SOURCES.txt
+SwE_A3.egg-info/dependency_links.txt
+SwE_A3.egg-info/entry_points.txt
+SwE_A3.egg-info/top_level.txt
+assignment3/__init__.py
+assignment3/main.py
+assignment3/runmycode.py
+test/test.py

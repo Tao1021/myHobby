@@ -1,0 +1,5 @@
+3
+turn of 1,1 through 2,2
+trn on 1,1 through 2,2
+swatch 1,1 through 2,2
+switch 1,0 through 1,2
